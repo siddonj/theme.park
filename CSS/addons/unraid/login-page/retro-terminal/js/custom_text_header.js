@@ -7,10 +7,12 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>                     __                             ___       __  
-   ____  ____  _____/ /__________  ____ ___  ____  / (_)___  / /__
-  / __ \\/ __ \\/ ___/ __/ ___/ __ \\/ __ '__ \\/ __ \\/ / / __ \\/ //_/
- / / / / /_/ (__  ) /_/ /  / /_/ / / / / / / /_/ / / / / / / ,&lt;   
-/_/ /_/\\____/____/\\__/_/   \\____/_/ /_/ /_/\\____/_/_/_/ /_/_/|_|  
+   
+    JJJ  OOOOO   SSSSS  HH   HH        NN   NN   AAA    SSSSS  
+    JJJ OO   OO SS      HH   HH        NNN  NN  AAAAA  SS      
+    JJJ OO   OO  SSSSS  HHHHHHH _____  NN N NN AA   AA  SSSSS  
+JJ  JJJ OO   OO      SS HH   HH        NN  NNN AAAAAAA      SS 
+ JJJJJ   OOOO0   SSSSS  HH   HH        NN   NN AA   AA  SSSSS  
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
